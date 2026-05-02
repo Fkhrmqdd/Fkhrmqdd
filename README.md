@@ -1,4 +1,4 @@
-<h2 align="left">Hi Minnaaa ! My name is Fakhril and I'm a College  from Telkom Universityz</h2>
+<h2 align="left">Hi All ! My name is Fakhril and I'm a College from Telkom University, and welcome to my GitHub ! </h2>
 
 ###
 

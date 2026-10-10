@@ -4,7 +4,6 @@
 
 <img align="right" height="2000" src="https://media.giphy.com/media/d2rYOn0ee3W3SYvCTu/giphy.gif" />
 
-###
 
 <div align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="30" alt="python logo"  />

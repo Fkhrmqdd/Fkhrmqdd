@@ -1,5 +1,5 @@
 <h2 align="center">"<b>I once again am thinking back to the research in my childhood, together with you in no Man's Land. Just in case, i want someone who will be on my side — <i>in other words, you.<i></b>"</h2>
-<h2 align="center"> ━━━━━━━━━━━━━The 81st member of Genius Society, Ruan Mei━━━━━━━━━━━━━</h2>
+<h2 align="center"> ━━━━━━━ The 81st member of Genius Society, Ruan Mei ━━━━━━━</h2>
 <div align="center">
   <img src="blob:https://web.whatsapp.com/6f638fb5-715c-4717-9a98-18a17be3639f" />
 

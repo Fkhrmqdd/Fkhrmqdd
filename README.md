@@ -2,7 +2,7 @@
 <h2 align="center"> ━━━━━━━ The 81st member of Genius Society, Ruan Mei ━━━━━━━</h2>
 <div align="center">
 
-<img align="right" height="2000" src="https://media.giphy.com/media/d2rYOn0ee3W3SYvCTu/giphy.gif" />
+<img align="center" height="2000" src="https://media.giphy.com/media/d2rYOn0ee3W3SYvCTu/giphy.gif" />
 
 
 <div align="left">

@@ -1,4 +1,4 @@
-<img width="736" height="245" alt="6f638fb5-715c-4717-9a98-18a17be3639f" src="https://github.com/user-attachments/assets/f1840be3-2c22-40ba-989d-505c972e7df4" />
+<img width="368" height="122" alt="6f638fb5-715c-4717-9a98-18a17be3639f" src="https://github.com/user-attachments/assets/f1840be3-2c22-40ba-989d-505c972e7df4" />
 <h2 align="center">"<b>I once again am thinking back to the research in my childhood, together with you in no Man's Land. Just in case, i want someone who will be on my side — <i>in other words, you.<i></b>"</h2>
 <h2 align="center"> ━━━━━━━━ The 81st member of Genius Society, Ruan Mei ━━━━━━━━</h2>
 <div align="center">

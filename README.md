@@ -1,4 +1,4 @@
-<h2 align="left">**"I once again am thinking back to the research in my childhood, together with you in no Man's Land.  Just in case, i want someone who will be on my side — in other words, you."**  The 81st member of Genius Society, Ruan Mei</h2>
+<h2 align="left">"**I once again am thinking back to the research in my childhood, together with you in no Man's Land.  Just in case, i want someone who will be on my side — in other words, you.**"  The 81st member of Genius Society, Ruan Mei</h2>
 
 ###
 

@@ -53,7 +53,7 @@
 
 ---
 
-### Stats:
+
 
 <h3 align="center"><i>Stats:</i></h3>
 

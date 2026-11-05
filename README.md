@@ -55,20 +55,17 @@
 
 ### Stats:
 
-<h3 align="center"><i>Stats:</i></h3>
-
-<p align="center">
-  <a href="https://git.io/streak-stats">
-    <img src="https://streak-stats.demolab.com/?user=fkhrmqdd&theme=dark" alt="GitHub Streak" />
-  </a>
-</p>
-
-<p align="center">
-  <a href="https://github.com/anuraghazra/github-readme-stats">
-    <img height="170" src="https://github-readme-stats-fast.vercel.app/api?username=fkhrmqdd&theme=dark&show_icons=true" alt="GitHub Stats" />
-  </a>
-  <a href="https://github.com/anuraghazra/github-readme-stats">
-    <img height="170" src="https://github-readme-stats-fast.vercel.app/api/top-langs/?username=fkhrmqdd&layout=compact&theme=dark" alt="Top Languages" />
-  </a>
-</p>
-
+<table align="center">
+  <tr>
+    <td valign="middle">
+      <a href="https://github.com/anuraghazra/github-readme-stats">
+        <img src="https://github-readme-stats-fast.vercel.app/api?username=fkhrmqdd&theme=dark&show_icons=true" alt="GitHub Stats" />
+      </a>
+    </td>
+    <td valign="middle">
+      <a href="https://github.com/anuraghazra/github-readme-stats">
+        <img src="https://github-readme-stats-fast.vercel.app/api/top-langs/?username=fkhrmqdd&layout=compact&theme=dark" alt="Top Languages" />
+      </a>
+    </td>
+  </tr>
+</table>

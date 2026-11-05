@@ -55,6 +55,6 @@
 
 ### Stats:
 
-[![GitHub Streak](https://streak-stats.demolab.com/?user=shxrp08&theme=dark)](https://git.io/streak-stats)
-[![GitHub Readme Stats](https://github-readme-stats.vercel.app/api?username=shxrp08&theme=dark&show_icons=true)](https://github.com/anuraghazra/github-readme-stats)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=shxrp08&layout=compact&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
+[![GitHub Streak](https://streak-stats.demolab.com/?user=fkhrmqdd&theme=dark)](https://git.io/streak-stats)
+[![GitHub Readme Stats](https://github-readme-stats.vercel.app/api?username=fkhrmqdd&theme=dark&show_icons=true)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=fkhrmqdd&layout=compact&theme=dark)](https://github.com/anuraghazra/github-readme-stats)

@@ -54,7 +54,8 @@
 ---
 
 ### Stats:
-
+<div align="center">
 [![GitHub Streak](https://streak-stats.demolab.com/?user=fkhrmqdd&theme=dark)](https://git.io/streak-stats)
 [![GitHub Readme Stats](https://github-readme-stats-fast.vercel.app/api?username=fkhrmqdd&theme=dark&show_icons=true)](https://github.com/anuraghazra/github-readme-stats)
 [![Top Langs](https://github-readme-stats-fast.vercel.app/api/top-langs/?username=fkhrmqdd&layout=compact&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
+</div>
